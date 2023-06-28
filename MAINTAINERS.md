@@ -7,6 +7,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer               | GitHub ID                                             | Affiliation |
 |--------------------------|-------------------------------------------------------| ----------- |
 | shephali mittal          | [Shephalimittal](https://github.com/Shephalimittal/)  | Amazon      |
+| DevJhaAbhishek           | [Shephalimittal](https://github.com/DevJhaAbhishek/)  | Amazon      |
 | Khushboo Rajput          | [khushbr](https://github.com/khushbr)                 | Amazon      |
 | Prabhakar Sithanandam    | [backslasht](https://github.com/backslasht)           | Amazon      |
 
